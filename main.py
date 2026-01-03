@@ -43,7 +43,49 @@ ARJUN TRY M4AA R4xNDY💙_______________/
 
 
 
-ARJUN TRY M4AA R4xNDY💜_______________/"""
+ARJUN TRY M4AA R4xNDY💜_______________/""",
+    """ARJUN TMKC FAD DUGA BIHARI BAXHE/////////////////~~~~🎀
+
+
+__________________________________________________________________
+
+
+
+ARJUN TMKB MEIN A44G LGA DUGA///////////////////~~~~❤️‍🩹
+
+
+
+ARJUN TMKB BOXDA NHI JAW4LA MUKHI HAI/////////////////~~~~🎀
+
+
+__________________________________________________________________
+
+
+
+
+ARJUN BETA P4P4 KE LWWWD333 KO FEEL KR//////////////////~~~~💜❤️💛💙🩷💚
+
+
+
+ARJUN TMKC FAD DUGA BIHARI BAXHE/////////////////~~~~🎀
+
+
+__________________________________________________________________
+
+
+
+💚🩷💙💛❤️💜💜❤️‍🩹🎀👽🦢☃️
+
+
+
+
+ARJUN TMKC FAD DUGA BIHARI BAXHE/////////////////~~~~🎀
+
+
+__________________________________________________________________
+
+
+ARJUN FUXXXXK3D///////~~❤️‍🩹🙄🫴"""
 ]
 
 last_msg_id_by_user = {}
@@ -88,14 +130,14 @@ def auto_reply():
                     cl.direct_answer(thread.id, reply)
                     print(f"✔️ Replied to @{username}")
                     last_msg_id_by_user[user_id] = latest_msg.id
-                    time.sleep(random.randint(20, 30))
+                    time.sleep(15)
                 except Exception as e:
                     print(f"⚠️ Reply failed: {e}")
 
-            time.sleep(random.randint(20, 30))
+            time.sleep(15)
 
         except Exception as err:
             print(f"🚨 Main loop error: {err}")
-            time.sleep(random.randint(10, 20))
+            time.sleep(15)
 
 auto_reply()
