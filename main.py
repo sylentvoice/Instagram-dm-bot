@@ -22,143 +22,190 @@ print(f"🤖 Logged in as @{my_username} (ID: {me_id})")
 
 # ✅ Message reply templates (edit if you want)
 reply_templates_master = [
-    """𝑺𝑯𝑬𝑵𝑼//𝑹𝑨𝑯𝑼𝑳 𝑻𝑬𝑹𝒀 𝑴𝑨𝑨 𝑹𝑵𝑫 𝑩𝑵𝑨𝑲𝑬 𝑩𝑯𝑨𝑮𝑼🩵___________________//////////
+    """SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩵
 
 
 
 
 
 
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩵
 
 
 
 
 
-𝑺𝑯𝑬𝑵𝑼//𝑹𝑨𝑯𝑼𝑳 𝑻𝑬𝑹𝒀 𝑴𝑨𝑨 𝑹𝑵𝑫 𝑩𝑵𝑨𝑲𝑬 𝑩𝑯𝑨𝑮𝑼👽___________________//////////
 
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩵
 
 
 
 
 
 
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩵
 
 
 
 
 
-𝑺𝑯𝑬𝑵𝑼//𝑹𝑨𝑯𝑼𝑳 𝑻𝑬𝑹𝒀 𝑴𝑨𝑨 𝑹𝑵𝑫 𝑩𝑵𝑨𝑲𝑬 𝑩𝑯𝑨𝑮𝑼💅___________________//////////
 
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩵
 
 
 
 
 
 
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩵
 
 
 
 
 
-𝑺𝑯𝑬𝑵𝑼//𝑹𝑨𝑯𝑼𝑳 𝑻𝑬𝑹𝒀 𝑴𝑨𝑨 𝑹𝑵𝑫 𝑩𝑵𝑨𝑲𝑬 𝑩𝑯𝑨𝑮𝑼🍧___________________//////////
 
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩵
 
 
 
 
 
 
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩵
 
 
 
 
 
-𝑺𝑯𝑬𝑵𝑼//𝑹𝑨𝑯𝑼𝑳 𝑻𝑬𝑹𝒀 𝑴𝑨𝑨 𝑹𝑵𝑫 𝑩𝑵𝑨𝑲𝑬 𝑩𝑯𝑨𝑮𝑼🌸___________________//////////
 
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩵
 
 
 
 
 
 
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩵
 
 
 
 
 
 
-𝑺𝑯𝑬𝑵𝑼//𝑹𝑨𝑯𝑼𝑳 𝑻𝑬𝑹𝒀 𝑴𝑨𝑨 𝑹𝑵𝑫 𝑩𝑵𝑨𝑲𝑬 𝑩𝑯𝑨𝑮𝑼🧁___________________//////////
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩵
 
 
 
 
 
 
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩵
 
 
 
 
 
 
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩵
 
 
-𝑺𝑯𝑬𝑵𝑼//𝑹𝑨𝑯𝑼𝑳 𝑻𝑬𝑹𝒀 𝑴𝑨𝑨 𝑹𝑵𝑫 𝑩𝑵𝑨𝑲𝑬 𝑩𝑯𝑨𝑮𝑼🎀___________________//////////
-""",
-    """𝑺𝑯𝑬𝑵𝑼 𝒀𝑨𝑾𝑳 𝑨𝑨𝑷 𝑻𝑶 𝑩𝑨𝑻𝑯𝑹𝑶𝑶𝑴 𝑺𝑻𝑨𝑹 𝑯𝑶𝑾//////-------------👅
 
 
 
 
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩵""",
+"""SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩷
 
 
 
 
 
 
-𝑺𝑯𝑬𝑵𝑼 𝒀𝑨𝑾𝑳 𝑨𝑨𝑷 𝑻𝑶 𝑩𝑨𝑻𝑯𝑹𝑶𝑶𝑴 𝑺𝑻𝑨𝑹 𝑯𝑶𝑾 //////-------------👅
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩷
 
 
 
 
 
 
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩷
 
 
 
 
- 
- 𝑺𝑯𝑬𝑵𝑼 𝑻𝑴𝑹 𝑪𝒀𝑼 𝑯𝑨𝑰 𝒀𝑨𝑾𝑳//////-------------👅
 
 
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩷
 
 
 
 
 
 
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩷
 
 
-𝑺𝑯𝑬𝑵𝑼 𝑻𝑴𝑹 𝑪𝒀𝑼 𝑯𝑨𝑰 𝒀𝑨𝑾𝑳 //////-------------👅
 
 
 
 
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩷
 
 
 
 
 
-𝑺𝑯𝑬𝑵𝑼 𝑻𝑴𝑹 𝑪𝒀𝑼 𝑯𝑨𝑰 𝒀𝑨𝑾𝑳 //////-------------👅
 
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩷
 
 
 
 
 
 
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩷
 
-𝑺𝑯𝑬𝑵𝑼 𝑻𝑴𝑹 𝑪𝒀𝑼 𝑯𝑨𝑰 𝒀𝑨𝑾𝑳 //////-------------👅
-"""
+
+
+
+
+
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩷
+
+
+
+
+
+
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩷
+
+
+
+
+
+
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩷
+
+
+
+
+
+
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩷
+
+
+
+
+
+
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩷
+
+
+
+
+
+
+SHENU TRY KAALI MAKO COD KE GATAR M FEK DUGA^🩷 """
     
 ]
 
