@@ -1,4 +1,4 @@
 instagrapi
-python-dotenv
-pillow
 flask
+requests
+
